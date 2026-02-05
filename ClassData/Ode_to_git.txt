@@ -5,4 +5,6 @@ You make each class into a slog,
 and leave me beaten like a dog.
 
 Yet still I'll try to get the gist,
-With my head held high and my hand in fist
+With my head held high and my hand in fist.
+Now at last I've cloned in git.
+
